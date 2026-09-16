@@ -1,8 +1,12 @@
-# linux1_reza_behzadi
-Exploring and learning Linux
+# git and github
 
-## Working with git and github
-We have cloned the repository from github using
-´´´bash
-git clone REPO_URL
-´´´
+ - git is a version control system locally
+- github is a cloud platform for storage
+
+## Commit and push
+
+```bash
+git add .
+git commit - "your commit_msg"
+git push
+```
