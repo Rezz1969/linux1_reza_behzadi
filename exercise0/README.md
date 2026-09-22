@@ -1,10 +1,6 @@
-# Några andra tips
+# Exercise0
 
- - nano README.md: Skriv den text du vill, därefter Ctrl+O (spara) och Ctrl+X (avsluta)
+ - 1. File management
 
-## git & github
-
-```bash
-git add .
-git commit -m "Your commit"
-git push
+## Go into your local repository with bash
+```Create the following file structure in your repository
