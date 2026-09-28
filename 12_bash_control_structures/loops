@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+
+echo "cool_1"
+echo "cool_2"
+echo "cool_3"
+echo "cool_4"
+echo "cool_5"
+echo "cool_6"

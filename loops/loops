@@ -1,0 +1,20 @@
+#!/usr/bin/env bash
+
+#echo "cool_1"
+#echo "cool_2"
+#echo "cool_3"
+#echo "cool_4"
+#echo "cool_5"
+#echo "cool_6"
+
+# range-based for loop
+#for i in {1..6}; do
+#    echo "cool_$i"
+#done
+
+i=1
+#list-based for loop
+for animal in kangaroo rabbit dog cat; do
+    echo "Animal $i: $animal"
+    ((i+=1))
+done
