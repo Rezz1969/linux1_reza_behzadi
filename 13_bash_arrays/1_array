@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+
+fruits=(apple pear banana kiwi)
+echo "$fruits"
+echo "${fruits[0]}"
+echo "${fruits[2]}"
+echo "${fruits[-1]}"
+
+
+echo "${fruits[@]}"
+
+
+echo "${fruits[@]:1:2}"
+
+
